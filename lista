@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="", Contacto ✅3865448130
-https://stmv1.cnarlatam.com/cadenavivohd/cadenavivohd/playlist.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America" tvg-logo="https://scontent.faep14-2.fna.fbcdn.net/v/t39.30808-6/323892085_5526129417496095_3261758999072757730_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=103&ccb=1-7&_nc_sid=7aed08&efg=eyJpIjoidCJ9&_nc_ohc=DthQ7Kvhc2cAX-4Ncx7&tn=XjW5T13OOI29f8BT&_nc_ht=scontent.faep14-2.fna&oh=00_AfA7YIGbQ_v2jdLaC4SccvVqaNMqqHFf3YOWHvxHnvmskg&oe=63E6B369" group-title="Argentina",America
