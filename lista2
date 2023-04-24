@@ -41,8 +41,7 @@ http://170.83.242.155:5350/play/a00n
 http://170.83.242.155:5350/play/a02s
 #EXTINF:-1,E Entertainment
 http://170.83.242.155:5350/play/a00r
-#EXTINF:-1 tvg-name=" NEO TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="NACIONAL", NEO TV
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv1MpkuA-yo59mjqY_VK5DKg/ts
+#EXTINF:-1,NEO TV"http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv1MpkuA-yo59mjqY_VK5DKg/ts
 #EXTINF:-1,ESPN
 http://170.83.242.155:5350/play/a00u
 #EXTINF:-1,ESPN 2
