@@ -93,6 +93,8 @@ http://170.83.242.155:5350/play/a00e
 http://170.83.242.155:5350/play/a02w
 #EXTINF:-1,PARAVISION
 http://170.83.242.155:5350/play/a021
+#EXTINF:-1,ParaguayTV
+http://170.83.242.155:5350/play/a01o
 #EXTINF:-1,RCN Novelas
 http://170.83.242.155:5350/play/a016
 #EXTINF:-1,SNT
@@ -140,4 +142,4 @@ http://170.83.242.155:5350/play/a0ko
 #EXTINF:-1,Venus
 http://170.83.242.155:5350/play/a00z
 #EXTINF:-1,Warner
-http://170.83.242.155:5350/play/
+http://170.83.242.155:5350/play/a00q
