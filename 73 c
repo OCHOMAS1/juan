@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Nacional" tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png", Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,AE Mundo
 http://170.83.242.155:5350/play/a00y
 #EXTINF:-1,AXN
